@@ -1,0 +1,4 @@
+SimpleWide
+==========
+
+SimpleWide-Ghost-Theme
