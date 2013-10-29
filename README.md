@@ -9,4 +9,4 @@ Simple wide was but around the framework of the [Ghost](http://github.com/trygho
 It's stripped down, wider, and ultra minimal.
 
 ### Add-Ons
-[FitVids.js](http://fitvidsjs.com) added to make videos scale responsively
+[FitVid.js](http://fitvidsjs.com) added to make videos scale responsively

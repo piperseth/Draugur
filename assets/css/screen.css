@@ -46,6 +46,27 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'OutageRegular';
+    src:url('../fonts/Outage.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'EdmondBold';
+    src:url('../fonts/Edmondsans-Bold.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Edmond';
+    src:url('../fonts/Edmondsans-Regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
 
 /* Apply these base styles to all icons */
 .icon-ghost, .icon-feed, .icon-twitter, .icon-google-plus, .icon-facebook {
@@ -117,12 +138,12 @@ h4, h5, h6 {
     text-rendering: optimizeLegibility;
     line-height: 1;
     margin-top: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'EdmondBold', sans-serif;
 }
 
 h1 {
     font-size: 5rem;
-    line-height: 1.2em;
+    line-height: .8em;
     letter-spacing: -2px;
     text-indent: -3px;
 }
@@ -395,7 +416,7 @@ table.plain {
 
 /* The details of your blog. Defined in ghost/settings/ */
 .blog-title {
-    margin: 10px 0 10px 0;
+    margin: 10px 0 7px 0;
     font-size: 5rem;
     letter-spacing: -1px;
 }
@@ -459,9 +480,10 @@ table.plain {
 .post-meta {
     display: inline-block;
     margin: 0 0 5px 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Droid Serif', sans-serif;
     font-size: 1.5rem;
     color: #9EABB3;
+    font-style: italic;
 }
 
 .post-meta a {
@@ -893,6 +915,8 @@ table.plain {
     h4 {
         font-size: 2.3rem;
     }
+
+
 
     .post-template .post {
         padding-bottom: 0;
