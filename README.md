@@ -1,6 +1,6 @@
 # SimpleWide
 
-*SimpleWide* is stripped down, minimal and play plays nice with videos. A Tubmlr/Feed style blog, saving your users all those nasty extra clicks.
+*SimpleWide* is stripped down, minimal [Ghost](http://github.com/tryghost/ghost/) theme that plays nice with videos. A Tubmlr/Feed style blog, saving your users all those nasty extra clicks.
 
 Proudly ground, brewed and filtered for [Ghost](http://github.com/tryghost/ghost/).
 
