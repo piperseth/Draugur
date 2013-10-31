@@ -4,7 +4,7 @@ A customized theme for [Ghost](http://github.com/tryghost/ghost/).
 
 ## About
 
-Simple wide was but around the framework of the [Ghost](http://github.com/tryghost/ghost/) deafault theme [Casper](http://github.com/tryghost/ghost/).
+Simple wide was built around the framework of the [Ghost](http://github.com/tryghost/ghost/) deafault theme [Casper](http://github.com/tryghost/ghost/).
 
 It's stripped down, wider, and ultra minimal.
 
