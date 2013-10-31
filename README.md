@@ -9,5 +9,5 @@ Simple wide was built around the framework of the [Ghost](http://github.com/tryg
 It's stripped down, wider, and ultra minimal.
 
 ### Add-Ons
-[FitVid.js](http://fitvidsjs.com) added to make videos scale responsively
-[Edmond Sans](http://www.losttype.com/edmondsans/) an awesome typeface from [Lost Type](http://losttype.com)
+* [FitVid.js](http://fitvidsjs.com) added to make videos scale responsively
+* [Edmond Sans](http://www.losttype.com/edmondsans/) an awesome typeface from [Lost Type](http://losttype.com
