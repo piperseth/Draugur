@@ -10,3 +10,4 @@ It's stripped down, wider, and ultra minimal.
 
 ### Add-Ons
 [FitVid.js](http://fitvidsjs.com) added to make videos scale responsively
+[Edmond Sans](http://www.losttype.com/edmondsans/) an awesome typeface from [Lost Type](http://losttype.com)
