@@ -4,9 +4,11 @@ A customized theme for [Ghost](http://github.com/tryghost/ghost/).
 
 *SimpleWide* is stripped down, minimal and play plays nice with videos. 
 
+A Tubmlr/Feed style blog, saving your users all those nasty extra clicks
+
 ## Contributing
 
-*SimpleWide* is open source and released under the MIT License, and contributions to the code base are welcome and encouraged. 
+*SimpleWide* is open source and released under the MIT License, and contributions to the code base are welcome and encouraged. For more info or submitting improvments contact [@piperseth](http://www.twitter.com/piperseth)
 
 ## Copyright & License
 
