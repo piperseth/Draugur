@@ -148,6 +148,7 @@ h1 {
     text-indent: -3px;
 }
 
+
 h2 {
     font-size: 4rem;
     line-height: 1.2em;
@@ -174,6 +175,10 @@ h6 {
 a {
     color: #4a4a4a;
     transition: color ease 0.3s;
+}
+
+.post-title a {
+    color: #404041;
 }
 
 a:hover {
@@ -392,14 +397,14 @@ table.plain {
     height: 275px;
     margin-bottom: 5rem;
     text-align: center;
-    color: #50585D;
+    color: #404041;
     background-size: cover;
 }
 
 /* Yo-logo. Yolo-go. Upload one in ghost/settings/ */
 #blog-logo img {
     display: block;
-    max-height: 100px;
+    max-height: 120px;
     width: auto;
     margin: 0 auto;
     line-height: 0;
@@ -643,8 +648,9 @@ table.plain {
     width: 80%;
     max-width: 700px;
     margin: 4rem auto;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Droid Serif', serif;
     font-size: 1.3rem;
+    font-style: italic;
     color: #9EABB3;
     text-align: center;
 }
