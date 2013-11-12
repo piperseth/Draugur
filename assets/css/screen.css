@@ -699,7 +699,7 @@ table.plain {
     margin: 8rem 0 0 0;
     padding: 4rem 0;
     border-top: #EBF2F6 1px solid;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Georgia', serif;
     font-size: 1.3rem;
     line-height: 1.7em;
     color: #BBC7CC;
@@ -975,5 +975,5 @@ table.plain {
 
 /* ==========================================================================
    End of file. Media queries should be the last thing here. Do not add stuff
-   below this point, or it will probably fuck everything up.
+   below this point, or it will probably fuck shit up.
    ========================================================================== */
